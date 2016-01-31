@@ -1,7 +1,7 @@
 #FindPrimeNumber
-package Josh;
+package Mth;
 
-public class JoshC {
+public class FindPrimeNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
